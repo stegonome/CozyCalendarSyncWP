@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>calendar</title>
+
+    <link href="calendar.css" rel="stylesheet" />
+
+    <script src="/pages/calendar/ical.js"></script>
+   
+    <script src="calendar.js"></script>
+</head>
+<body>
+    <div class="calendar fragment">
+        <header class="page-header" aria-label="Header content" role="banner">
+            <button class="back-button" data-win-control="WinJS.UI.BackButton"></button>
+            <h1 class="titlearea win-type-ellipsis">
+                <span id="pagetitle" class="pagetitle">Welcome to calendar</span>
+            </h1>
+        </header>
+        <section class="page-section" aria-label="Main content" role="main">
+            <div id="events">
+                <ul id="events-list"></ul>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

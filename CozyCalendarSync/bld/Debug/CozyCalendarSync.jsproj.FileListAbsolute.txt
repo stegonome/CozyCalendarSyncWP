@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bin\Debug\ReverseMap\resources.pri
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bin\Debug\AppxManifest.xml
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bin\Debug\CozyCalendarSync.build.appxrecipe
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\priconfig.xml
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\priconfig.xml.intermediate
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\layout.resfiles
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\layout.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\resources.resfiles
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\resources.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\pri.resfiles
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\pri.resfiles.intermediate
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\qualifiers.txt
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\qualifiers.txt.intermediate
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Documents\Visual Studio 2013\Projects\CozyCalendarSync\CozyCalendarSync\bld\Debug\ProjectArchitectures.txt
